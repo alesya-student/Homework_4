@@ -1,0 +1,42 @@
+body {
+    font-size: 24px;
+}
+p.green {
+    color: green;
+}
+p.red {
+    color: red;
+}
+p.italic {
+    font-style: italic;
+}
+p.bold {
+    font-weight: bold;
+}
+li.green {
+    color: green;
+}
+li.red {
+    color: red;
+}
+.size_1 {
+    font-size: xx-small;
+}Задание №2.html
+.size_2 {
+    font-size: x-small;
+}
+.size_3 {
+    font-size:medium;  
+}
+.size_4 {
+    font-size: x-large;
+}
+.size_5 {
+    font-size:large;
+}
+.size_6 {
+    font-size:small
+}
+.size_7 {
+    font-size: xx-large;
+}
